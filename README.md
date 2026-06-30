@@ -65,6 +65,9 @@ cd msa
 python manage.py migrate
 
 python manage.py runserver
+```
+
+---
 
 ---
 
