@@ -65,13 +65,6 @@ cd msa
 python manage.py migrate
 
 python manage.py runserver
-```
-
----
-
-## 📸 Screenshots
-
-*Screenshots will be added soon.*
 
 ---
 
