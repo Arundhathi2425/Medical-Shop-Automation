@@ -89,26 +89,26 @@ python manage.py runserver
 ## 📷 Screenshots
 
 ### Login Page
-![Login](Screenshots/01-login.png)
+![Login](screenshots/01-login.png)
 
 ### Dashboard
-![Dashboard](Screenshots/02-dashboard.png)
+![Dashboard](screenshots/02-dashboard.png)
 
 ### Medicine Search
-![Medicine Search](Screenshots/03-medicine-search.png)
+![Medicine Search](screenshots/03-medicine-search.png)
 
 ### Add New Medicine
-![New Medicine](Screenshots/04-new-medicine.png)
+![New Medicine](screenshots/04-new-medicine.png)
 
 ### Add New Vendor
-![New Vendor](Screenshots/05-new-vendor.png)
+![New Vendor](screenshots/05-new-vendor.png)
 
 ### New Supply
-![New Supply](Screenshots/06-new-supply.png)
+![New Supply](screenshots/06-new-supply.png)
 
 ### Medicine List
-![Medicine List](Screenshots/07-medicine-list.png)
+![Medicine List](screenshots/07-medicine-list.png)
 
 ### Sell Medicine
-![Sell Medicine](Screenshots/08-sell.png)
+![Sell Medicine](screenshots/08-sell.png)
 
